@@ -13,7 +13,7 @@ You can also set whether the model being rated is recommended.
 First, pull in the package through Composer.
 
 ```
-composer require sundarocs/laravel-review-rateable
+composer require gettoolset/laravel-review-rateable
 ```
 
 And then include the service provider within `app/config/app.php`. Note: If you are running Laravel 5.5+ this will be auto loaded for you.
@@ -166,7 +166,7 @@ $post->ratingPercent(10)); // Ten star rating system
 ````
 
 ### Note
-This is a fork from Trexology's - [Original Code - laravel-reviewRateable
-](https://github.com/Trexology/laravel-reviewRateable).
+This is a fork from Trexology's - [Original Code - laravel-review-rateable
+](https://github.com/codebyray/laravel-review-rateable).
 
 Please note that this code is not used in the original and is not maintained.
