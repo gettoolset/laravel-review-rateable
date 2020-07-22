@@ -1,6 +1,6 @@
 {
     "name": "gettoolset/laravel-review-rateable",
-    "description": "Review & Rating system for Laravel 5",
+    "description": "Review & Rating system for Laravel 5, 6 and 7",
     "keywords": ["rating", "Ratable", "laravel", "Review-Rateable", "reviewable"],
     "license": "MIT",
     "authors": [
